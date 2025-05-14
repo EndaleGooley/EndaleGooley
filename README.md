@@ -1,6 +1,9 @@
--  Hi, I’m @EndaleGooley
--  I’m interested in ... Computer engineering/Softwear engineering/Computer Science
--  I’m currently learning ... C++,python,beginner HTML
--  How to reach me ... endalegooley@gmail.com
--  Fun fact: ... I love to surf
-
+#### Intro
+- Hi, I’m @EndaleGooley
+- CE && Finance student-> SWE || DS
+### Little bit about me 
+- Intermediate C++
+- Beginner/intermediate Python
+- Starting CUDA
+### Contact
+- endalegooley@gmail.com
