@@ -4,6 +4,7 @@
 ### Little bit about me 
 - Intermediate C++
 - Beginner/intermediate Python
+- Intermidiate Unix
 - Starting CUDA
 ### Contact
 - endalegooley@gmail.com
